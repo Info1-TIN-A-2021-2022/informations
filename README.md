@@ -9,8 +9,7 @@
 
 # Informations générales pour le cours
 
-- [polycopié en ligne](https://heig-tin-info.github.io/handout/)
-- [polycopié PDF](https://github.com/heig-tin-info/handout/releases/download/v0.2.7/handout.pdf)
+- polycopié [en ligne](https://heig-tin-info.github.io/handout/) ou en [PDF](https://github.com/heig-tin-info/handout/releases/download/v0.2.7/handout.pdf)
 - [exemple de règles de codage](https://google.github.io/styleguide/cppguide.html)
 - [repository des TD](https://github.com/Info1-TIN-A-2021-2022/TD)
 - [équipe Teams](https://teams.microsoft.com/l/channel/19%3aeaQDpmWxTq1wLb0iXlBvK1pNr36UCa59DD8GWCc_fjk1%40thread.tacv2/G%25C3%25A9n%25C3%25A9ral?groupId=e46f982f-f491-4434-9182-0fa0ec435c46&tenantId=a372f724-c0b2-4ea0-abfb-0eb8c6f84e40)
