@@ -2,7 +2,7 @@
 
 | Date | Activité | Ratio |
 |---|---|---|
-| 06-12-2020 | Test écrit #1 | 12.5% |
+| 06-12-2021 | Test écrit #1 | 12.5% |
 | 17-01-2022 | Test écrit #2 | 12.5% |
 |   | 3 labos test | 25% |
 |   | Examen | 50% |
