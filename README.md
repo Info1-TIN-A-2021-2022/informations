@@ -30,9 +30,9 @@ Copiez le fichier `wsp.code-workspace` dans votre répertoire de travail du cour
 Copiez les 2 répertoires dans votre répertoire de travail du cours.
 
 # Activités cours/labo
-| Date du cours/labo | Activité | Commentaire |
-|---|---|---|
-|20210922 C| introduction, objectifs, sondage ||
-|20210923 C| architecture ordinateur, représentation de l'information ||
-|20210927 C| création compte github, modélisation chaudière ||
+| Date | cours/labo | Activité | Commentaire |
+|---|---|---|---|
+|20210922|C| introduction, objectifs, sondage ||
+|20210923|C| architecture ordinateur, représentation de l'information ||
+|20210927|C| création compte github, modélisation chaudière ||
 
