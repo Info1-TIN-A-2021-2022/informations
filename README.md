@@ -35,7 +35,7 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |20210922|C| introduction, objectifs, sondage ||
 |20210923|C| architecture ordinateur, représentation de l'information ||
 |20210927|C| création compte github, modélisation chaudière ||
-|20210929|L| installation des outils et labo01 ||
+|20210929|L| installation des outils et labo01 | [labo01](https://classroom.github.com/a/oRtKqaUt) |
 |20210930|L|||
 |20211004|C|||
 |20211006|L|||
