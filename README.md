@@ -35,15 +35,15 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |20210922|C| introduction, objectifs, sondage ||
 |20210923|C| architecture ordinateur, représentation de l'information ||
 |20210927|C| création compte github, modélisation chaudière ||
-|20210929|L| installation des outils et labo01 | [labo01](https://classroom.github.com/a/oRtKqaUt) |
-|20210930|L|||
-|20211004|C|||
-|20211006|L|||
-|20211007|C|||
-|20211011|C|||
-|20211013|L|||
-|20211014|L|||
-|20211018|C|||
+|20210929|L| installation des outils et labo01 (1/2)| [labo01](https://classroom.github.com/a/oRtKqaUt) |
+|20210930|L| labo01 (2/2) ||
+|20211004|C| C file from scratch, compilation ||
+|20211006|L| labo02 ||
+|20211007|C| data types, variables, const, operators||
+|20211011|C| display at console and get value from keyboard ||
+|20211013|L| labo03 (1/2)||
+|20211014|L| labo03 (2/2)||
+|20211018|C| lao03 explained, formatted print||
 |20211020|L|||
 |20211021|C|||
 |20211101|C|||
