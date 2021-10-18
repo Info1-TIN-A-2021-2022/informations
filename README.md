@@ -38,10 +38,10 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |20210929|L| installation des outils et labo01 (1/2)| [labo01](https://classroom.github.com/a/oRtKqaUt) |
 |20210930|L| labo01 (2/2) ||
 |20211004|C| C file from scratch, compilation ||
-|20211006|L| labo02 ||
+|20211006|L| labo02 | [labo02](https://classroom.github.com/a/Z7lu30H_)|
 |20211007|C| data types, variables, const, operators||
 |20211011|C| display at console and get value from keyboard ||
-|20211013|L| labo03 (1/2)||
+|20211013|L| labo03 (1/2)| [labo03](https://classroom.github.com/a/sN1FvqKm)|
 |20211014|L| labo03 (2/2)||
 |20211018|C| lao03 explained, formatted print||
 |20211020|L|||
