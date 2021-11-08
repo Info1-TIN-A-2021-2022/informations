@@ -44,12 +44,12 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |20211013|L| labo03 (1/2)| [labo03](https://classroom.github.com/a/sN1FvqKm)|
 |20211014|L| labo03 (2/2)||
 |20211018|C| lao03 explained, formatted print||
-|20211020|L|||
-|20211021|C|||
-|20211101|C|||
-|20211103|L|||
-|20211104|L|||
-|20211108|C|||
+|20211020|L| labo04 (1/1)| [labo04](https://classroom.github.com/a/i7RwxRPD)|
+|20211021|C| display at console and get value from keyboard ||
+|20211101|C| RGB - Lab conversion||
+|20211103|L|labo05 (1/2)| [labo05](https://classroom.github.com/a/rxek1_3H)|
+|20211104|L|labo05 (2/2)||
+|20211108|C|scanf, getchar, gets in details ||
 |20211110|L|||
 |20211111|C|||
 |20211115|C|||
