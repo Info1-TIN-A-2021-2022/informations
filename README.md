@@ -53,8 +53,8 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |20211110|L|labo06 - pneus||
 |20211111|C|structures de contrôle||
 |20211115|C|structures de contrôle||
-|20211117|L|||
-|20211118|L|||
+|20211117|L|labo08 (1/2)| [labo08](https://classroom.github.com/a/Hr6FcaOn)|
+|20211118|L|labo08 (1/2)| [labo08](https://classroom.github.com/a/Hr6FcaOn)|
 |20211122|C|||
 |20211124|L|||
 |20211125|C|||
