@@ -58,12 +58,12 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |20211122|C|structures de contrôle| suite |
 |20211124|L|labo09| [labo09](https://classroom.github.com/a/9KQGP8th)|
 |20211125|C|fonctions||
-|20211129|C|||
-|20211201|L|||
-|20211202|L|||
+|20211129|C|fonctions||
+|20211201|L|labo10|[labo10](https://classroom.github.com/a/g_MofqJO)|
+|20211202|L|Revision TE1||
 |20211206|C|TEST ECRIT #1||
-|20211208|L|||
-|20211209|C|||
+|20211208|L|labo11 (1/2)|[labo11](https://classroom.github.com/a/TFGPdpGw)|
+|20211209|C|[functions - passage par adresse|||
 |20211213|C|||
 |20211215|L|||
 |20211216|L|||
