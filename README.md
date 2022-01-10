@@ -67,9 +67,9 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |20211213|C|fonctions||
 |20211215|L|labo11 (2/2)|[labo11](https://classroom.github.com/a/TFGPdpGw)|
 |20211216|L|labo12 (1/2)|[labo12](https://classroom.github.com/a/gc3_E2Nt)|
-|20211220|C||tableaux||
-|20211222|L|||
-|20211223|C|||
+|20211220|C|tableaux, chaînes||
+|20211222|L|labo12 (2/2)|[labo12](https://classroom.github.com/a/gc3_E2Nt)|
+|20211223|C|tableaux, chaînes||
 |20220110|C|||
 |20220112|L|||
 |20220113|L|||
