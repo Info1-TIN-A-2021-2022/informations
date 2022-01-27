@@ -70,12 +70,12 @@ Copiez les 2 répertoires dans votre répertoire de travail du cours.
 |20211220|C|tableaux, chaînes||
 |20211222|L|labo12 (2/2)|[labo12](https://classroom.github.com/a/gc3_E2Nt)|
 |20211223|C|tableaux, chaînes||
-|20220110|C|||
-|20220112|L|||
-|20220113|L|||
+|20220110|C|tableaux, chaînes||
+|20220112|L|labo13 (1/2)||
+|20220113|L|labo13 (2/2)||
 |20220117|C|TEST ECRIT #2||
-|20220119|L|||
-|20220120|C|||
-|20220124|C|REVISION EXAMEN||
-|20220126|L|||
-|20220127|L|||
+|20220119|L|TD dril||
+|20220120|C|TD dril||
+|20220124|C|TD dril||
+|20220126|L|TD dril||
+|20220127|L|REVISION EXAMEN||
